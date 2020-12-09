@@ -19,7 +19,7 @@ Email: arijit.codes@gmail.com
 
 ## Live Demo
 
-For a Live Demo, check : ([Live Demo link will be updated here soon!](#))
+For a Live Demo, check : [https://arijit-contact-app.herokuapp.com](https://arijit-contact-app.herokuapp.com)
 
 <hr>
 
@@ -27,9 +27,9 @@ For a Live Demo, check : ([Live Demo link will be updated here soon!](#))
 
 `Stack` : MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
-`Technologies Used` : NodeJS, ExpressJS, MongoDB, Mongoose, Express-Validator, BcryptJS, JSONWebToken (JWT), Config etc.
+`Technologies Used` : NodeJS, ExpressJS, ReactJS, MongoDB, Mongoose, Express-Validator, BcryptJS, JSONWebToken (JWT), React Hooks, Global State Management using State Reducer and Context Api, Toastify, Axios etc.
 
-`Functionalities` : REST Api, CRUD, User Registration, Log In, Authentication, JWT Token, PRIVATE and PUBLIC Routes, Create, Read, Update Delete contacts based on Users, Unique Contacts based on Email & Phone per User.
+`Functionalities` : REST Api, CRUD, User Registration, Log In, Authentication, JWT Token, PRIVATE and PUBLIC Routes, Create, Read, Server Side Validation using Express-Validator, Password Encryption using BCrypt, Update Delete contacts based on Users, Unique Contacts based on Email & Phone per User, Global State, Error Toastr Notification System using Toastify etc.
 
 `NOTE`: Contacts are stored in a way that two different users can save contact which has same Email and/or Phone Number. But, Same user cannot have multiple contacts with same Email/Phone. The Email and/or Phone Number is unique for individual user's own contacts.
 
@@ -39,9 +39,7 @@ For a Live Demo, check : ([Live Demo link will be updated here soon!](#))
 
 This is a Self Project, made on MERN Stack. After going through basics of MERN I needed some kind of full project to work on and gather some experience on Full Stack MERN Development on my own. So I decided to make a Contact App.
 
-This is a Web App just like Google Contacts, where users can Sign Up, and Create and Store their contacts.
-
-This is the Backend of the whole project. I might upload the Frontend later.
+This is a Full Stack Web App just like Google Contacts, where users can Sign Up, and Create and Store their contacts.
 
 If you have any suggestions, please feel free to leave the suggestions. Constructive Criticism is always appreciated.
 
