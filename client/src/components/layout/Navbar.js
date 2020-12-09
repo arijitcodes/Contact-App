@@ -79,6 +79,17 @@ const Navbar = ({ title, icon }) => {
             </Link>
           </li>
           {isAuthenticated ? authLinks : guestLinks}
+          <li className="nav-item nav-link text-white d-none d-md-block">|</li>
+          <li className="nav-item">
+            <a
+              href="https://github.com/ArijitCodes/Contact-App"
+              target="_blank"
+              className="nav-link text-white"
+            >
+              <i class="fab fa-github"></i> GitHub{" "}
+              <i class="fas fa-external-link-alt"></i>
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
