@@ -27,9 +27,9 @@ For a Live Demo, check : [https://arijit-contact-app.herokuapp.com](https://arij
 
 `Stack` : MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
-`Technologies Used` : NodeJS, ExpressJS, ReactJS, MongoDB, Mongoose, Express-Validator, BcryptJS, JSONWebToken (JWT), React Hooks, Global State Management using State Reducer and Context Api, Toastify, Axios etc.
+`Technologies Used` : NodeJS, ExpressJS, ReactJS, MongoDB, Mongoose, Express-Validator, BcryptJS, JSONWebToken (JWT), React Hooks, Global State Management using State Reducer and Context Api, Toastify, Axios, Bootstrap etc.
 
-`Functionalities` : REST Api, CRUD, User Registration, Log In, Authentication, JWT Token, PRIVATE and PUBLIC Routes, Create, Read, Server Side Validation using Express-Validator, Password Encryption using BCrypt, Update Delete contacts based on Users, Unique Contacts based on Email & Phone per User, Global State, Error Toastr Notification System using Toastify etc.
+`Functionalities` : REST Api, CRUD, User Registration, Log In, Authentication, JWT Token, PRIVATE and PUBLIC Routes, Create, Read, Server Side Validation using Express-Validator, Password Encryption using BCrypt, Update Delete contacts based on Users, Unique Contacts based on Email & Phone per User, Global State, Error Toastr Notification System using Toastify, Fully Responsive Web Design using Bootstrap etc.
 
 `NOTE`: Contacts are stored in a way that two different users can save contact which has same Email and/or Phone Number. But, Same user cannot have multiple contacts with same Email/Phone. The Email and/or Phone Number is unique for individual user's own contacts.
 
