@@ -19,7 +19,7 @@ Email: arijit.codes@gmail.com
 
 ## Live Demo
 
-For a Live Demo, check : [https://arijit-contact-app.herokuapp.com](https://arijit-contact-app.herokuapp.com)
+For a Live Demo, check : [https://contactapp.iamarijit.dev](https://contactapp.iamarijit.dev)
 
 <hr>
 
